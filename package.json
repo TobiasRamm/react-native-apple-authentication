@@ -14,8 +14,6 @@
     "build:clean": "rimraf ios/build android/build example/android/app/build example/ios/build",
     "build:docs": "typedoc --includeDeclarations --excludeExternals --out docs --plugin typedoc-plugin-markdown --hideBreadcrumbs",
     "precommit": "yarn prepare && yarn build:all",
-    "prepare": "yarn tsc:compile && yarn prepare:example",
-    "prepare:example": "cd example && yarn && cd ios && (pod install || true)",
     "shipit": "yarn np"
   },
   "repository": {
