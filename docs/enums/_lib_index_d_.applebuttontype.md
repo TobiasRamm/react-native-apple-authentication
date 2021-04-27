@@ -18,7 +18,7 @@ The Apple Button type to render, this controls the button text.
 
 • **CONTINUE**: = "Continue"
 
-*Defined in [lib/index.d.ts:41](../../lib/index.d.ts#L41)*
+*Defined in [lib/index.d.ts:41](../../index.d.ts#L41)*
 
 Renders the button with 'Continue with Apple'.
 
@@ -28,7 +28,7 @@ ___
 
 • **DEFAULT**: = "SignIn"
 
-*Defined in [lib/index.d.ts:31](../../lib/index.d.ts#L31)*
+*Defined in [lib/index.d.ts:31](../../index.d.ts#L31)*
 
 The default button, the same as `SIGN_IN`.
 
@@ -38,7 +38,7 @@ ___
 
 • **SIGN_IN**: = "SignIn"
 
-*Defined in [lib/index.d.ts:36](../../lib/index.d.ts#L36)*
+*Defined in [lib/index.d.ts:36](../../index.d.ts#L36)*
 
 Renders the button with 'Sign in with Apple'.
 
@@ -48,7 +48,7 @@ ___
 
 • **SIGN_UP**: = "SignUp"
 
-*Defined in [lib/index.d.ts:48](../../lib/index.d.ts#L48)*
+*Defined in [lib/index.d.ts:48](../../index.d.ts#L48)*
 
 Renders the button with 'Sign up with Apple'.
 

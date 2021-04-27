@@ -27,7 +27,7 @@ A response from `performRequest(requestOptions)`.
 
 • **authorizationCode**: *string | null*
 
-*Defined in [lib/index.d.ts:397](../../lib/index.d.ts#L397)*
+*Defined in [lib/index.d.ts:397](../../index.d.ts#L397)*
 
 A short-lived, one-time valid token that can provides proof of authorization to the server
 component of your app.
@@ -42,7 +42,7 @@ ___
 
 • **authorizedScopes**: *[AppleRequestScope](../enums/_lib_index_d_.applerequestscope.md)[]*
 
-*Defined in [lib/index.d.ts:362](../../lib/index.d.ts#L362)*
+*Defined in [lib/index.d.ts:362](../../index.d.ts#L362)*
 
 This value will contain an array of scopes for which the user provided authorization.
 Note that these may contain a subset of the requested scopes. You should query this value to
@@ -56,7 +56,7 @@ ___
 
 • **email**: *string | null*
 
-*Defined in [lib/index.d.ts:382](../../lib/index.d.ts#L382)*
+*Defined in [lib/index.d.ts:382](../../index.d.ts#L382)*
 
 An optional email shared by the user.
 
@@ -68,7 +68,7 @@ ___
 
 • **fullName**: *null | [AppleRequestResponseFullName](_lib_index_d_.applerequestresponsefullname.md)*
 
-*Defined in [lib/index.d.ts:346](../../lib/index.d.ts#L346)*
+*Defined in [lib/index.d.ts:346](../../index.d.ts#L346)*
 
 An optional full name shared by the user.
 
@@ -82,7 +82,7 @@ ___
 
 • **identityToken**: *string | null*
 
-*Defined in [lib/index.d.ts:375](../../lib/index.d.ts#L375)*
+*Defined in [lib/index.d.ts:375](../../index.d.ts#L375)*
 
 A JSON Web Token (JWT) used to communicate information about the identity of the user in a
 secure way to the app.
@@ -100,7 +100,7 @@ ___
 
 • **nonce**: *string*
 
-*Defined in [lib/index.d.ts:327](../../lib/index.d.ts#L327)*
+*Defined in [lib/index.d.ts:327](../../index.d.ts#L327)*
 
 Nonce that was passed to the identity provider. If none was passed to the request, one will
 have automatically been created and available to be read from this property.
@@ -111,7 +111,7 @@ ___
 
 • **realUserStatus**: *[AppleRealUserStatus](../enums/_lib_index_d_.applerealuserstatus.md)*
 
-*Defined in [lib/index.d.ts:353](../../lib/index.d.ts#L353)*
+*Defined in [lib/index.d.ts:353](../../index.d.ts#L353)*
 
 Check this property for a hint as to whether the current user is a "real user".
 
@@ -123,7 +123,7 @@ ___
 
 • **state**: *string | null*
 
-*Defined in [lib/index.d.ts:387](../../lib/index.d.ts#L387)*
+*Defined in [lib/index.d.ts:387](../../index.d.ts#L387)*
 
 A copy of the state value that was passed to the initial request.
 
@@ -133,7 +133,7 @@ ___
 
 • **user**: *string*
 
-*Defined in [lib/index.d.ts:337](../../lib/index.d.ts#L337)*
+*Defined in [lib/index.d.ts:337](../../index.d.ts#L337)*
 
 An opaque user ID associated with the AppleID used for the sign in. This identifier will be
 stable across the 'developer team', it can later be used as an input to

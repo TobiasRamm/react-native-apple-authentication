@@ -15,7 +15,7 @@
 
 • **LIKELY_REAL**: = 2
 
-*Defined in [lib/index.d.ts:199](../../lib/index.d.ts#L199)*
+*Defined in [lib/index.d.ts:199](../../index.d.ts#L199)*
 
 A hint that there's high confidence that the user is real.
 
@@ -25,7 +25,7 @@ ___
 
 • **UNKNOWN**: = 1
 
-*Defined in [lib/index.d.ts:194](../../lib/index.d.ts#L194)*
+*Defined in [lib/index.d.ts:194](../../index.d.ts#L194)*
 
 Could not determine the value.
 
@@ -38,6 +38,6 @@ ___
 
 • **UNSUPPORTED**: = 0
 
-*Defined in [lib/index.d.ts:186](../../lib/index.d.ts#L186)*
+*Defined in [lib/index.d.ts:186](../../index.d.ts#L186)*
 
 Not supported on current platform, ignore the value.

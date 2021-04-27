@@ -19,7 +19,7 @@ iOS
 
 • **CANCELED**: = "1001"
 
-*Defined in [lib/index.d.ts:130](../../lib/index.d.ts#L130)*
+*Defined in [lib/index.d.ts:130](../../index.d.ts#L130)*
 
 The user canceled the authorization attempt.
 
@@ -29,7 +29,7 @@ ___
 
 • **FAILED**: = "1004"
 
-*Defined in [lib/index.d.ts:145](../../lib/index.d.ts#L145)*
+*Defined in [lib/index.d.ts:145](../../index.d.ts#L145)*
 
 The authorization attempt failed.
 
@@ -39,7 +39,7 @@ ___
 
 • **INVALID_RESPONSE**: = "1002"
 
-*Defined in [lib/index.d.ts:135](../../lib/index.d.ts#L135)*
+*Defined in [lib/index.d.ts:135](../../index.d.ts#L135)*
 
 The authorization request received an invalid response.
 
@@ -49,7 +49,7 @@ ___
 
 • **NOT_HANDLED**: = "1003"
 
-*Defined in [lib/index.d.ts:140](../../lib/index.d.ts#L140)*
+*Defined in [lib/index.d.ts:140](../../index.d.ts#L140)*
 
 The authorization request wasn't handled.
 
@@ -59,6 +59,6 @@ ___
 
 • **UNKNOWN**: = "1000"
 
-*Defined in [lib/index.d.ts:125](../../lib/index.d.ts#L125)*
+*Defined in [lib/index.d.ts:125](../../index.d.ts#L125)*
 
 The authorization attempt failed for an unknown reason.

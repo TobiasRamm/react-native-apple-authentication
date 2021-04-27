@@ -41,7 +41,7 @@
 
 Ƭ **AndroidError**: *object*
 
-*Defined in [lib/index.d.ts:479](../../lib/index.d.ts#L479)*
+*Defined in [lib/index.d.ts:479](../../index.d.ts#L479)*
 
 Android
 
@@ -59,7 +59,7 @@ Android
 
 • **AppleButton**: *object & React.FC‹[AppleButtonProps](../interfaces/_lib_index_d_.applebuttonprops.md)›*
 
-*Defined in [lib/index.d.ts:113](../../lib/index.d.ts#L113)*
+*Defined in [lib/index.d.ts:113](../../index.d.ts#L113)*
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 • **appleAuth**: *object*
 
-*Defined in [lib/index.d.ts:401](../../lib/index.d.ts#L401)*
+*Defined in [lib/index.d.ts:401](../../index.d.ts#L401)*
 
 #### Type declaration:
 
@@ -99,4 +99,4 @@ ___
 
 • **appleAuthAndroid**: *[AppleAuthAndroid](../interfaces/_lib_index_d_.appleauthandroid.md)*
 
-*Defined in [lib/index.d.ts:592](../../lib/index.d.ts#L592)*
+*Defined in [lib/index.d.ts:592](../../index.d.ts#L592)*

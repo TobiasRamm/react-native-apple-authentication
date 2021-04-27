@@ -15,7 +15,7 @@
 
 • **ALL**: = "ALL"
 
-*Defined in [lib/index.d.ts:493](../../lib/index.d.ts#L493)*
+*Defined in [lib/index.d.ts:493](../../index.d.ts#L493)*
 
 ___
 
@@ -23,7 +23,7 @@ ___
 
 • **CODE**: = "CODE"
 
-*Defined in [lib/index.d.ts:494](../../lib/index.d.ts#L494)*
+*Defined in [lib/index.d.ts:494](../../index.d.ts#L494)*
 
 ___
 
@@ -31,4 +31,4 @@ ___
 
 • **ID_TOKEN**: = "ID_TOKEN"
 
-*Defined in [lib/index.d.ts:495](../../lib/index.d.ts#L495)*
+*Defined in [lib/index.d.ts:495](../../index.d.ts#L495)*

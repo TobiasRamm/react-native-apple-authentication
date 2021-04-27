@@ -14,7 +14,7 @@
 
 • **EMAIL**: = 0
 
-*Defined in [lib/index.d.ts:174](../../lib/index.d.ts#L174)*
+*Defined in [lib/index.d.ts:174](../../index.d.ts#L174)*
 
 A scope that includes the user’s email address.
 
@@ -24,6 +24,6 @@ ___
 
 • **FULL_NAME**: = 1
 
-*Defined in [lib/index.d.ts:179](../../lib/index.d.ts#L179)*
+*Defined in [lib/index.d.ts:179](../../index.d.ts#L179)*
 
 A scope that includes the user’s full name.

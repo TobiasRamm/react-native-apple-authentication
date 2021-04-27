@@ -25,7 +25,7 @@ The available props for the AppleButton view component.
 
 • **buttonStyle**? : *[AppleButtonStyle](../enums/_lib_index_d_.applebuttonstyle.md)*
 
-*Defined in [lib/index.d.ts:83](../../lib/index.d.ts#L83)*
+*Defined in [lib/index.d.ts:83](../../index.d.ts#L83)*
 
 See @{AppleButtonStyle}
 
@@ -35,7 +35,7 @@ ___
 
 • **buttonType**? : *[AppleButtonType](../enums/_lib_index_d_.applebuttontype.md)*
 
-*Defined in [lib/index.d.ts:88](../../lib/index.d.ts#L88)*
+*Defined in [lib/index.d.ts:88](../../index.d.ts#L88)*
 
 See @{AppleButtonType}
 
@@ -45,7 +45,7 @@ ___
 
 • **cornerRadius**? : *undefined | number*
 
-*Defined in [lib/index.d.ts:93](../../lib/index.d.ts#L93)*
+*Defined in [lib/index.d.ts:93](../../index.d.ts#L93)*
 
 Corner radius of the button.
 
@@ -55,7 +55,7 @@ ___
 
 • **leftView**? : *React.ReactNode*
 
-*Defined in [lib/index.d.ts:108](../../lib/index.d.ts#L108)*
+*Defined in [lib/index.d.ts:108](../../index.d.ts#L108)*
 
 Android-only. View on the left that can be used for an Apple logo.
 
@@ -65,7 +65,7 @@ ___
 
 • **onPress**: *function*
 
-*Defined in [lib/index.d.ts:110](../../lib/index.d.ts#L110)*
+*Defined in [lib/index.d.ts:110](../../index.d.ts#L110)*
 
 #### Type declaration:
 
@@ -83,7 +83,7 @@ ___
 
 • **style**? : *StyleProp‹ViewStyle›*
 
-*Defined in [lib/index.d.ts:98](../../lib/index.d.ts#L98)*
+*Defined in [lib/index.d.ts:98](../../index.d.ts#L98)*
 
 Styling for outside `TouchableOpacity`
 
@@ -93,6 +93,6 @@ ___
 
 • **textStyle**? : *StyleProp‹TextStyle›*
 
-*Defined in [lib/index.d.ts:103](../../lib/index.d.ts#L103)*
+*Defined in [lib/index.d.ts:103](../../index.d.ts#L103)*
 
 Android-only. Styling for button text.

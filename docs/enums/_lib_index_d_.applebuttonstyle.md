@@ -18,7 +18,7 @@ The Button style (mainly color) to render.
 
 • **BLACK**: = "Black"
 
-*Defined in [lib/index.d.ts:73](../../lib/index.d.ts#L73)*
+*Defined in [lib/index.d.ts:73](../../index.d.ts#L73)*
 
 Render a black button with white text.
 
@@ -28,7 +28,7 @@ ___
 
 • **DEFAULT**: = "White"
 
-*Defined in [lib/index.d.ts:58](../../lib/index.d.ts#L58)*
+*Defined in [lib/index.d.ts:58](../../index.d.ts#L58)*
 
 The default style, White.
 
@@ -38,7 +38,7 @@ ___
 
 • **WHITE**: = "White"
 
-*Defined in [lib/index.d.ts:63](../../lib/index.d.ts#L63)*
+*Defined in [lib/index.d.ts:63](../../index.d.ts#L63)*
 
 Render a white button with black text.
 
@@ -48,6 +48,6 @@ ___
 
 • **WHITE_OUTLINE**: = "WhiteOutline"
 
-*Defined in [lib/index.d.ts:68](../../lib/index.d.ts#L68)*
+*Defined in [lib/index.d.ts:68](../../index.d.ts#L68)*
 
 Render a white button with black text and a bordered outline.

@@ -16,7 +16,7 @@
 
 • **AUTHORIZED**: = 1
 
-*Defined in [lib/index.d.ts:211](../../lib/index.d.ts#L211)*
+*Defined in [lib/index.d.ts:211](../../index.d.ts#L211)*
 
 The Opaque user ID is in good state.
 
@@ -26,7 +26,7 @@ ___
 
 • **NOT_FOUND**: = 2
 
-*Defined in [lib/index.d.ts:216](../../lib/index.d.ts#L216)*
+*Defined in [lib/index.d.ts:216](../../index.d.ts#L216)*
 
 The Opaque user ID was not found.
 
@@ -36,7 +36,7 @@ ___
 
 • **REVOKED**: = 0
 
-*Defined in [lib/index.d.ts:206](../../lib/index.d.ts#L206)*
+*Defined in [lib/index.d.ts:206](../../index.d.ts#L206)*
 
 The Opaque user ID was revoked by the user.
 
@@ -46,7 +46,7 @@ ___
 
 • **TRANSFERRED**: = 3
 
-*Defined in [lib/index.d.ts:223](../../lib/index.d.ts#L223)*
+*Defined in [lib/index.d.ts:223](../../index.d.ts#L223)*
 
 N/A
 

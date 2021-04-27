@@ -15,7 +15,7 @@
 
 • **ALL**: = "ALL"
 
-*Defined in [lib/index.d.ts:499](../../lib/index.d.ts#L499)*
+*Defined in [lib/index.d.ts:499](../../index.d.ts#L499)*
 
 ___
 
@@ -23,7 +23,7 @@ ___
 
 • **EMAIL**: = "EMAIL"
 
-*Defined in [lib/index.d.ts:500](../../lib/index.d.ts#L500)*
+*Defined in [lib/index.d.ts:500](../../index.d.ts#L500)*
 
 ___
 
@@ -31,4 +31,4 @@ ___
 
 • **NAME**: = "NAME"
 
-*Defined in [lib/index.d.ts:501](../../lib/index.d.ts#L501)*
+*Defined in [lib/index.d.ts:501](../../index.d.ts#L501)*

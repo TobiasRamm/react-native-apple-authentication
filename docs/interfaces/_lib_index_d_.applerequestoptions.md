@@ -24,7 +24,7 @@ Apple Authentication Request options to be used with `performRequest(requestOpti
 
 • **nonce**? : *undefined | string*
 
-*Defined in [lib/index.d.ts:263](../../lib/index.d.ts#L263)*
+*Defined in [lib/index.d.ts:263](../../index.d.ts#L263)*
 
 Nonce to be passed to the identity provider. If value not provided, one will automatically
 be created for you and available as part of @{AppleRequestResponse}.
@@ -41,7 +41,7 @@ ___
 
 • **nonceEnabled**? : *undefined | false | true*
 
-*Defined in [lib/index.d.ts:272](../../lib/index.d.ts#L272)*
+*Defined in [lib/index.d.ts:272](../../index.d.ts#L272)*
 
 Disable automatic nonce behaviour by setting this to false.
 
@@ -55,7 +55,7 @@ ___
 
 • **requestedOperation**? : *[AppleRequestOperation](../enums/_lib_index_d_.applerequestoperation.md)*
 
-*Defined in [lib/index.d.ts:243](../../lib/index.d.ts#L243)*
+*Defined in [lib/index.d.ts:243](../../index.d.ts#L243)*
 
 Operation which should be executed.
 
@@ -67,7 +67,7 @@ ___
 
 • **requestedScopes**? : *[AppleRequestScope](../enums/_lib_index_d_.applerequestscope.md)[]*
 
-*Defined in [lib/index.d.ts:236](../../lib/index.d.ts#L236)*
+*Defined in [lib/index.d.ts:236](../../index.d.ts#L236)*
 
 The contact information to be requested from the user.
 
@@ -79,7 +79,7 @@ ___
 
 • **state**? : *undefined | string*
 
-*Defined in [lib/index.d.ts:279](../../lib/index.d.ts#L279)*
+*Defined in [lib/index.d.ts:279](../../index.d.ts#L279)*
 
 State to be passed to the identity provider.
 
@@ -91,7 +91,7 @@ ___
 
 • **user**? : *undefined | string*
 
-*Defined in [lib/index.d.ts:251](../../lib/index.d.ts#L251)*
+*Defined in [lib/index.d.ts:251](../../index.d.ts#L251)*
 
 If you have been previously vended a 'user' value through a Apple Authorization response,
 you may set it here to provide additional context to the identity provider.
